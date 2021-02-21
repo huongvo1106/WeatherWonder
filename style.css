@@ -1,0 +1,18 @@
+.weather-container{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.icon{
+    size: 60px;
+}
+.weather {
+    font-size: 22px;
+    margin: 0;
+    
+}
+.temp {
+    font-size: 60px;
+    margin: 0;
+    font-weight: bold;
+    margin-top: 1px;
+}
